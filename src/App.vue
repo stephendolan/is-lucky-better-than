@@ -86,13 +86,13 @@
                         class="underline text-green-500 hover:text-green-400 cursor-pointer"
                         href="https://luckyframework.org"
                         >on the website</a
-                      >!
+                      >.
                     </p>
 
                     <p>
                       However, no single framework is the perfect fit for
                       <span class="italic">every</span> problem, so don't be shy
-                      about trying out some other languages, too.
+                      about trying out some other languages and frameworks, too.
                     </p>
 
                     <p>
