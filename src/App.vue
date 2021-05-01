@@ -3,7 +3,7 @@
     <h1
       class="pb-12 text-center tracking-tight font-extrabold text-white sm:leading-none text-5xl xl:text-6xl"
     >
-      <span class="md:block"
+      <span class="block"
         >Is <span class="text-green-400">Lucky</span> better</span
       >
       <span>than</span>
