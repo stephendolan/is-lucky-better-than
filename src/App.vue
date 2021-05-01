@@ -4,9 +4,10 @@
       class="pb-12 text-center tracking-tight font-extrabold text-white sm:leading-none text-5xl xl:text-6xl"
     >
       <span class="md:block"
-        >Is <span class="text-green-400">Lucky</span> better than</span
+        >Is <span class="text-green-400">Lucky</span> better</span
       >
-      <span class="ml-2 md:ml-0 text-pink-500">{{ typedTextValue }}</span>
+      <span>than</span>
+      <span class="ml-2 text-pink-500">{{ typedTextValue }}</span>
       <span
         class="cursor inline-block ml-1 bg-white w-0.5"
         :class="{ typing: textIsTyping }"
