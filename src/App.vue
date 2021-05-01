@@ -91,11 +91,11 @@
                     <p>
                       However, no single framework is the perfect fit for
                       <span class="italic">every</span> problem, so don't be shy
-                      about trying out some other languages, too!
+                      about trying out some other languages, too.
                     </p>
 
                     <p>
-                      Here are a few of our favorites!
+                      Here are a few of our favorites:
                       <ul>
                         <li v-for="framework in frameworks">
                           <a class="text-green-500 hover:text-green-600 underline cursor-pointer" target="_blank" :href="framework.website">
