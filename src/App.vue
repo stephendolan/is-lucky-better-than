@@ -105,6 +105,17 @@
                         </li>
                       </ul>
                     </p>
+
+                    <p>
+                      Interested in performance? Our focus is mainly on creating the best developer experience <span class="italic">ever</span>, but here are some benchmarks:
+                      <ul>
+                        <li>
+                          <a class="text-green-500 hover:text-green-600 underline cursor-pointer" target="_blank" href="https://www.techempower.com/benchmarks/#hw=ph&test=fortune">
+                            TechEmpower Benchmarks
+                          </a>
+                        </li>
+                      </ul>
+                    </p>
                   </div>
                 </div>
               </div>
